@@ -7,9 +7,7 @@
 <img src="./IMAGENS/FOTO_4.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
-- No `MODULO 03`, `10) PROJETO FINAL`: Criamos um bot para fazer upload de arquivos. O problema é que só era possivel enviar arquivos, não tinha como recuperar através do bot. Nesse projeto iremos resolver isso, com um simples CRUD MYSQL.
-
-- Este bot é um aplicativo de mensagens instantâneas que opera na plataforma Telegram e foi desenvolvido para gerenciar um banco de dados de multimídias. Ele oferece funcionalidades básicas de um CRUD (Create, Read, Update, Delete) para manipular arquivos de mídia, como imagens, vídeos ou áudios.
+Este bot é um aplicativo de mensagens instantâneas que opera na plataforma Telegram e foi desenvolvido para gerenciar um banco de dados de multimídias. Ele oferece funcionalidades básicas de um CRUD (Create, Read, Update, Delete) para manipular arquivos de mídia, como imagens, vídeos ou áudios.
 
 1. **Enviar Mídia:** Os usuários podem enviar arquivos de mídia para serem armazenados no banco de dados do bot. Isso é feito iniciando uma conversa com o bot e selecionando a opção "ENVIAR" no menu principal.
 
