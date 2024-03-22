@@ -19,32 +19,9 @@ Este bot é um aplicativo de mensagens instantâneas que opera na plataforma Tel
 
 O bot é capaz de interagir com os usuários por meio de mensagens de texto e botões interativos, facilitando a comunicação e a execução das operações CRUD de maneira intuitiva e eficiente. Ele ajuda os usuários a gerenciar suas coleções de mídia de forma conveniente e organizada diretamente do aplicativo Telegram.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-**Passo 1:** Clone o repositório para o seu sistema local.
-
-```bash
-git clone https://github.com/VILHALVA/CRUD-DE-MULTIMIDIAS-BOT.git
-```
-
-**Passo 2:** Navegue até o diretório do projeto.
-
-```bash
-cd CRUD-DE-MULTIMIDIAS-BOT
-```
-
-**Passo 3:** Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip CRUD-DE-MULTIMIDIAS-BOT.zip
-```
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Configuração do Banco de Dados:**
-
-   - Você deve importar o arquivo `DATABASE.sql` para o seu BANCO DE DADOS.
-
-   - Se você não estiver familiarizado com esses passos, confira nosso [curso completo de MYSQL](https://github.com/VILHALVA/CURSO-DE-MYSQL) para obter orientações detalhadas.
+   - Antes de executar o bot, é necessário importar o arquivo `DATABASE.sql`. Se não estiver familiarizado com o processo de importação, [confira este curso](https://github.com/VILHALVA/CURSO-DE-MYSQL) para orientações detalhadas.
 
 2. **Editar o código:**
    - Certifique-se de substituir "localhost", "seu_usuario" e "sua_senha" no arquivo `DB_CONNECTION.py` pelas informações corretas do seu banco de dados MySQL.
@@ -59,6 +36,8 @@ unzip CRUD-DE-MULTIMIDIAS-BOT.zip
 ```
    - Inicie o bot enviando o comando `/start`. Receba uma mensagem de boas-vindas e clique nos botões inlines.
 
-## CREDITOS:
+## SAIBA MAIS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [FAÇA OS NOSSOS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
 
