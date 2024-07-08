@@ -27,7 +27,7 @@ O bot é capaz de interagir com os usuários por meio de mensagens de texto e bo
    - Certifique-se de substituir "localhost", "seu_usuario" e "sua_senha" no arquivo `DB_CONNECTION.py` pelas informações corretas do seu banco de dados MySQL.
 
 3. **Coloque o Token:**
-   - Antes de executar o programa, é necessário substituir o token do seu bot no arquivo `TOKEN.py`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. 
+   - Antes de executar o programa, é necessário substituir o token do seu bot no arquivo `TOKEN.py`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather).
 
 4. **Instalando as dependências:**
    - Antes de executar o bot, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` em `CODIGO`:
@@ -43,9 +43,15 @@ O bot é capaz de interagir com os usuários por meio de mensagens de texto e bo
    
    - Inicie o bot enviando o comando `/start`. Receba uma mensagem de boas-vindas e clique nos botões inlines.
 
-## SAIBA MAIS:
+## NÃO SABE?
+- Entendemos que para manipular arquivos em muitas linguagens e tecnologias relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns subsidios:
+* [CURSO DE TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
+* [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+* [CURSO DE MYSQL](https://github.com/VILHALVA/CURSO-DE-MYSQL)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [CURSO DE TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
-- [CURSO DE MYSQL](https://github.com/VILHALVA/CURSO-DE-MYSQL)
+
 
 
